@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryEntityFramework.DataAccess", "RepositoryEntityFramework.DataAccess\RepositoryEntityFramework.DataAccess.csproj", "{94A487A2-E64C-40DD-B882-455E6C93D087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryEntityFramework.UI", "RepositoryEntityFramework.UI\RepositoryEntityFramework.UI.csproj", "{ED660A05-47EF-4B2F-8197-A2C6ED7D1BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A487A2-E64C-40DD-B882-455E6C93D087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A487A2-E64C-40DD-B882-455E6C93D087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A487A2-E64C-40DD-B882-455E6C93D087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A487A2-E64C-40DD-B882-455E6C93D087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED660A05-47EF-4B2F-8197-A2C6ED7D1BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED660A05-47EF-4B2F-8197-A2C6ED7D1BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED660A05-47EF-4B2F-8197-A2C6ED7D1BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED660A05-47EF-4B2F-8197-A2C6ED7D1BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
